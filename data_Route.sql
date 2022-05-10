@@ -1,0 +1,6 @@
+INSERT INTO Route VALUES("Bal001",2.5,"Balgownie","Trail shoes","The Balgownie side of the walk is a mixture of open forestry road and woodland paths. The eastern edge has a well established path through a community wood.","Medium",102);
+INSERT INTO Route VALUES("Dea001",3,"Dean Wood","Walking boots","This walk includes a bit of everything: steep hills and woodland and open ground with even a bit of grass land.","Medium",101);
+INSERT INTO Route VALUES("Dea002",1.75,"Dean Wood","Waterproof shoes","The forestry road is an easy stroll with open views of the surrounding area and its wildlife.  The other half of the walk takes you through woodland down into the valley.","Medium",101);
+INSERT INTO Route VALUES("Dea003",2.5,"Dean Wood","Boots (ankle high)","A simple there and back down the forestry road and establish paths.","Easy",103);
+INSERT INTO Route VALUES("Dev001",5.5,"Devilla","Boots (robust and waterproof)","This forest road and path walk loops round the West side of the wood past all three bodies of water.","Difficult",103);
+INSERT INTO Route VALUES("Dev002",3,"Devilla","Walking shoes","This walk completes the circuit round the end of the squirrel walk passing  seats and nice picnic areas. On the way back a connecting path is taken to join one of the forestry roads.","Easy",104);
