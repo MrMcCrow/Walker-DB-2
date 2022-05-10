@@ -1,6 +1,6 @@
 # Walker-DB-2
 
-This is an SQLite repl for use in school, based upon the 2020-21 SQA Higher assignment.
+This is an SQLite repl for use in school, based upon the 2021-22 SQA Higher assignment.
 Various example queries are included, based on the example Sakila movie database, that can be modified to work with the tables here.
 
 main.sql has some boilerplate to add columns, headers etc.
